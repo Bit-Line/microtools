@@ -2,7 +2,7 @@
 # Author: Manuel Bankmann
 # Version: 1.0
 # Description: This script is used to provide import-function for Synology contacts to a yealink IP-phone (T46G tested)
-# Requirements: wget, gwak, tidy 
+# Requirements: wget, gawk, tidy 
 
 # predefined values
 source .env
